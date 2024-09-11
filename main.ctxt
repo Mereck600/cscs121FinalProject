@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=color\ shade
+comment3.target=java.awt.Color\ getShade(java.awt.Color,\ double)
+comment4.params=tris
+comment4.target=java.util.List\ inflate(java.util.List)
+numComments=5
